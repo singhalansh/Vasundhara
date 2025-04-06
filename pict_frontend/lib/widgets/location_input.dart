@@ -62,7 +62,7 @@ class _LocationInputState extends State<LocationInput> {
     final lat = location!.lat;
     final lng = location!.lon;
 
-    return "https://maps.googleapis.com/maps/api/staticmap?center=$lat,$lng&zoom=16&size=600x300&maptype=roadmap&markers=color:red%7Clabel:I%7C$lat,$lng&key=AIzaSyClzjLAbRw6foRXjMIg3X4bAQaPJXc_Vb0";
+    return "https://maps.googleapis.com/maps/api/staticmap?center=$lat,$lng&zoom=16&size=600x300&maptype=roadmap&markers=color:red%7Clabel:I%7C$lat,$lng&key=AIzaSyDlaOgAIfENMBp18EY8vn07MdtTd0QwmUU";
 
   }
 

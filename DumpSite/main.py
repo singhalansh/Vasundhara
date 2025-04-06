@@ -8,7 +8,7 @@ import requests
 import json
 import urllib.request
 # Configure Google API key
-GOOGLE_API_KEY='AIzaSyAXfwSmYwayAQLU9yQuUlSB1V8Wq1BGJ4s'
+GOOGLE_API_KEY='AIzaSyDlaOgAIfENMBp18EY8vn07MdtTd0QwmUU'
 # os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 
